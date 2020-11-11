@@ -1,3 +1,5 @@
+[![bg][banner]][website]
+
 ### Hi there, I am Revanth Krishna 👋
 
 [![linkedin](https://img.shields.io/website?label=Revanth&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/reyvnth/)
@@ -37,8 +39,7 @@ Here are some ideas to get you started:
 
 
 
-
-[website]: ---
+[banner]: https://raw.githubusercontent.com/[website]: ---
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
 [linkedin]: https://www.linkedin.com/in/reyvnth/
