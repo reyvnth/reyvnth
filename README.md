@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 
 
-[banner]: https://raw.githubusercontent.com/[website]: ---
+[banner]: ![banner](https://user-images.githubusercontent.com/64673748/98843526-1b213e80-2471-11eb-9972-bf705a898f80.jpg)
+[website]: ---
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
 [linkedin]: https://www.linkedin.com/in/reyvnth/
