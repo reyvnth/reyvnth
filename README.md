@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-[banner]: ![banner](https://user-images.githubusercontent.com/64673748/98843526-1b213e80-2471-11eb-9972-bf705a898f80.jpg)
+[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner.jpg
 [website]: ---
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
