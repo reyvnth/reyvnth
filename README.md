@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner.jpg
+[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
 [website]: ---
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
