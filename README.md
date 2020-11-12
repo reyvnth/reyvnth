@@ -37,7 +37,14 @@ Here are some ideas to get you started:
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Seaborn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seaborn/seaborn.png" />
 
+<br />
+<br />
+<br />
+<br />
 
+---
+
+<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&hide_border=true&count_private=true" />
 
 [banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
 [website]: ---
