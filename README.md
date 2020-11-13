@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="sand47 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sand47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sand47 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Revanth's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Revanth's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="Revanth's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
 <br />
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Seaborn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seaborn/seaborn.png" />
 
+
 <br />
 <br />
 <br />
@@ -44,10 +45,13 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api username=reyvnth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 [banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
 [website]: ---
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
 [linkedin]: https://www.linkedin.com/in/reyvnth/
+[github]: https://github.com/reyvnth/
+[Telegram]: https://t.me/reyvnth/
+[Facebook]: https://www.facebook.com/reyvnth/
