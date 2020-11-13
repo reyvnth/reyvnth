@@ -60,6 +60,12 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reyvnth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 [banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
 [website]: ---
 [twitter]: https://twitter.com/reyvnth
@@ -68,3 +74,5 @@ Here are some ideas to get you started:
 [github]: https://github.com/reyvnth/
 [Telegram]: https://t.me/reyvnth/
 [Facebook]: https://www.facebook.com/reyvnth/
+
+
