@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api username=reyvnth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reyvnth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
 [website]: ---
