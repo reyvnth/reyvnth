@@ -42,11 +42,13 @@ Here are some ideas to get you started:
 <img align="left" alt="OpenCV" width="40px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />
 <img align="left" alt="Flutter" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+
 <br />
+
 <img align="left" alt="Pyserial" width="75px" src="https://avatars1.githubusercontent.com/u/10537924?s=400&v=4" />
 <img align="left" alt="Streamlit" width="70px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />
 <img align="left" alt="Matplotlib" width="100px" src = "https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
-<img align="left" alt="Matlab" width="60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Matlab" width="70px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 
 <br />
 <br />
