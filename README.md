@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Hi there, I am Revanth Krishna 👋
+### Namaste!, I am Revanth Krishna 👋
 
 [![linkedin](https://img.shields.io/website?label=Revanth&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/reyvnth/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Revanth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/reyvnth)
