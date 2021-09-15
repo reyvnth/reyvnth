@@ -6,12 +6,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Revanth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/reyvnth)
 
 
-### I'm an Undergrad Student and a Data Science Enthusiast!
+### I'm a Graduate Student at the UNIVERSITY AT BUFFALO and a Data Science Enthusiast!
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project related to COVID-19...
-- 🌱 I’m currently learning Data Science...
+- 🌱 I’m currently learning Data Science and Applications...
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down a mail, if you have creative ideas we can work on.
 - 📫 How to reach me: revukrishna2000@gmail.com || revukrishna2000@yahoo.com
 - ⚡ Fun fact: I love playing FIFA
