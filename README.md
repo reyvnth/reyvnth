@@ -10,11 +10,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently not working on any project...
-- 🌱 I’m currently learning Data Science and Applications...
+- 🔭 Research Works and Publications can be found here: https://www.researchgate.net/profile/Revanth-Krishna-3...
+- 🌱 I’m currently pursuing Masters in Data Science and Applications from the University at Buffalo, New York
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down a mail, if you have creative ideas we can work on.
 - 📫 How to reach me: revukrishna2000@gmail.com || revukrishna2000@yahoo.com
-- ⚡ Fun fact: I love playing FIFA
+- ⚡ Fun fact: I love playing FIFA and watching movies
 
 ### Connect with me:
 
