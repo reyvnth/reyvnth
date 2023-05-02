@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Revanth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/reyvnth)
 
 
-### I'm a Graduate Student at the UNIVERSITY AT BUFFALO and a Data Science Enthusiast!
+### Software/ Bioinformatics Engineer CU Anschutz!
 
 Here are some ideas to get you started:
 
