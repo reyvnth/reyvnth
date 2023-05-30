@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 </div>
 
-[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
+[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner.png
 [website]: https://reyvnth.com
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
