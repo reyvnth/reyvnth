@@ -59,9 +59,10 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href='https://clustrmaps.com/site/1buwm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=LVdFJu3l5LzQXTKeNcr-3HglnFACwAyJqmjeFFstYMA&co=080808&ct=808080'/>
+  <a href='https://clustrmaps.com/site/1buwm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=LVdFJu3l5LzQXTKeNcr-3HglnFACwAyJqmjeFFstYMA&co=000000'/>
   </a>
 </p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freyvnth&countColor=%23263759)
 
 <br />
 <br />
