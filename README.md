@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" color='white', alt="Revanth's twtter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Revanth's twtter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Revanth's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Revanth's Insta" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Revanth's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -58,7 +58,10 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Revanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reyvnth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+  <a href='https://clustrmaps.com/site/1buwm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=LVdFJu3l5LzQXTKeNcr-3HglnFACwAyJqmjeFFstYMA&co=080808&ct=808080'/>
+  </a>
+</p>
 
 <br />
 <br />
