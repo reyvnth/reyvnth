@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 <img align="left" alt="OpenCV" width="40px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />
 <img align="left" alt="Flutter" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Pandas" width="85px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
-<img align="left" alt="Numpy" width="65px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
+<img align="left" alt="Pandas" width="85px" src= 'https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg' />
+<img align="left" alt="Numpy" width="45px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
 <br />
 <br />
 <br />
@@ -58,11 +58,17 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <a href='https://clustrmaps.com/site/1buwm'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=LVdFJu3l5LzQXTKeNcr-3HglnFACwAyJqmjeFFstYMA&co=000000'/>
+
+
+  ![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&theme=transparent&include_all_commits=True)
+
+
+<p align = 'left'>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freyvnth">
+    <img align='center' src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freyvnth&countColor=%23263759" />
   </a>
 </p>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freyvnth&countColor=%23263759)
+  
 
 <br />
 <br />
