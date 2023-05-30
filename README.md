@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Namaste!, I am Revanth Krishna 👋
+### Hi / Namaste / Hola! 👋, This is Revanth Krishna's github profile!
 
 [![linkedin](https://img.shields.io/website?label=Revanth&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/reyvnth/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Revanth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/reyvnth)
@@ -10,15 +10,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Research Works and Publications can be found here: https://www.researchgate.net/profile/Revanth-Krishna-3...
-- 🌱 I’m currently pursuing Masters in Data Science and Applications from the University at Buffalo, New York
+- 🔭 Research Works and Publications can be found here: https://www.researchgate.net/profile/Revanth-Krishna-3
+- 🌱 I’m currently working with FanZhang Lab, Center for Health AI, University of Colorado Anschutz Medical Campus as Software Engineer.
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down a mail, if you have creative ideas we can work on.
-- 📫 How to reach me: revukrishna2000@gmail.com || revukrishna2000@yahoo.com
-- ⚡ Fun fact: I love playing FIFA and watching movies
+- 📫 How to reach me: reyvnth@gmail.com || revanth.krishna@cuanschutz.edu
+
 
 ### Connect with me:
 
-[<img align="left" alt="Revanth's twtter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" color='white', alt="Revanth's twtter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Revanth's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Revanth's Insta" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Revanth's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </div>
 
 [banner]: https://github.com/revanthkris/revanthkris/blob/main/banner%20(1).jpg
-[website]: ---
+[website]: https://reyvnth.com
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
 [linkedin]: https://www.linkedin.com/in/reyvnth/
