@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 Research Works and Publications can be found [here](https://www.researchgate.net/profile/Revanth-Krishna-3): 
 
 - 🌱 I’m currently working with -
-     **FanZhang Lab, Center for Health AI**
+     **Center for Health AI**
      **University of Colorado Anschutz Medical Campus**
 
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down an email, if you have creative ideas we can work on.
