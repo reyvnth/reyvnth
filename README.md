@@ -8,7 +8,7 @@
 <img width="30%" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
 
 
-### Software Engineer - Bioinformatics @ CU Anschutz!
+### Software Engineer - Bioinformatics/ Data Science @ CU Anschutz!
 
 Here are some ideas to get you started:
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 
-  ![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&theme=transparent&include_all_commits=False)
+  ![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&theme=transparent&include_all_commits=True)
 
 <p align = 'left'>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freyvnth">
