@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 </div>
 
-[banner]: https://github.com/revanthkris/revanthkris/blob/main/banner_new.png
+[banner]: https://github.com/revanthkris/revanthkris/blob/main/new_banner.png
 [website]: https://reyvnth.com
 [twitter]: https://twitter.com/reyvnth
 [instagram]: https://www.instagram.com/reyvnth_/
