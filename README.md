@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 
 
 
-  ![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&theme=transparent&include_all_commits=True)
 
 <p align = 'left'>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freyvnth">
