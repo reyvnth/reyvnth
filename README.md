@@ -6,17 +6,15 @@
 [![linkedin](https://img.shields.io/website?label=Revanth&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/reyvnth/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Revanth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/reyvnth)
 
-<img width="30%" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
+<img width="20%" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
 
 
-### Software Engineer - Data Science @ CU Anschutz!
+### Software Engineer - Data Science @ Center for Health Aritificial Intelligence, University of Colorado Anschutz!
 
 Here are some ideas to get you started:
 
 - 🔭 Research Works and Publications can be found [here](https://www.researchgate.net/profile/Revanth-Krishna-3): 
 
-- 🌱 I’m currently working with -
-     **Center for Health Aritificial Intelligence @ University of Colorado Anschutz**
 
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down an email, if you have creative ideas we can work on.
 
