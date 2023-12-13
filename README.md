@@ -65,36 +65,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-
-
-
-<p align = 'left'>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freyvnth">
-    <img align='center' src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freyvnth&countColor=%23263759" />
-  </a>
-</p>
- 
-<h2> My GitHub Stats</h2>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=reyvnth&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=reyvnth&theme=algolia&hide_border=true" />
-    </td>                           
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyvnth&theme=react-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
  
 <br />
 <br />
